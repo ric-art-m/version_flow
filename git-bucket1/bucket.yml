@@ -1,6 +1,6 @@
 flows:
-  5fc4e725-1af6-4f50-8bcd-fa0e9270f4cb: {ver: 1, file: git-flow-test1.snapshot, comments: git
-      version test1, author: ldapsvc, created: 1623986898236, flowName: git-flow-test1,
+  5fc4e725-1af6-4f50-8bcd-fa0e9270f4cb: {ver: 2, file: git-flow-test1.snapshot, comments: added
+      components, author: ldapsvc, created: 1623987413968, flowName: git-flow-test1,
     flowDesc: ''}
 layoutVer: 1
 bucketId: eba1e03a-5258-4085-b65f-bc31310e19d6
