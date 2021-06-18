@@ -1,0 +1,34 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "flowFileConcurrency" : "UNBOUNDED",
+        "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+        "funnels" : [ ],
+        "identifier" : "fd8de9d4-4ae6-3929-aede-14be34381e20",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "test4",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 560.0,
+          "y" : -40.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
